@@ -1,0 +1,6 @@
+{
+  "name": "실시간 원자재 대시보드",
+  "description": "야후 파이낸스 데이터를 사용하여 주요 원자재의 실시간 가격 및 추세를 시각화하는 대시보드입니다.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
