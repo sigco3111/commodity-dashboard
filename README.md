@@ -5,7 +5,7 @@
 
 이 프로젝트는 사용자가 원자재 시장의 흐름을 한눈에 파악하고, 개별 자산에 대한 심층적인 기술적 분석을 수행할 수 있도록 설계되었습니다. 깔끔하고 반응형인 인터페이스를 통해 복잡한 금융 데이터를 직관적으로 이해할 수 있는 경험을 제공합니다.
 
-실행주소1 : https://commodity-dashboard.vercel.app/
+실행주소1 : https://commodity-dashboard-bay.vercel.app/
 
 실행주소2 : https://dev-canvas-pi.vercel.app/
 
